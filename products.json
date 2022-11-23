@@ -1,0 +1,83 @@
+[
+    {
+        "id": "1",
+        "createdAt": "2020-07-28T15:08:21.105Z",
+        "title": "華麗的轉身擁抱前後耳環",
+        "price": 980,
+        "category": "耳環/Earrings",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Earring.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 高品質環保黃銅厚鍍18K金\n尺寸 / 長4cm\n注意 / 採用珠寶等級手工鏡面拋光＋德國電鍍技術，非常精緻。\n注意 / 黃銅材質可使用銅油銅膏擦拭保養\n注意 / 可改耳夾"
+    },
+    {
+        "id": "2",
+        "createdAt": "2020-07-29T00:17:57.019Z",
+        "title": "舊夢桂冠鋯石耳環",
+        "price": 690,
+        "category": "耳環/Earrings",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Laurel_Earring.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 高品質環保黃銅厚鍍18K金\n尺寸 / 1x1.8cm\n注意 / 採用珠寶等級手工鏡面拋光＋德國電鍍技術，非常精緻。 \n注意 / 黃銅材質可使用銅油銅膏擦拭保養。\n注意 / 可改耳夾"
+    },
+    {
+        "id": "3",
+        "createdAt": "2020-07-28T23:44:43.252Z",
+        "title": "方型鋯石夾心耳骨夾",
+        "price": 580,
+        "category": "耳夾/Ear Clips",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Ear_Clip.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 高品質環保黃銅厚鍍18K金 + 3A鋯石\n尺寸 / 內徑0.9cm\n注意 / 採用珠寶等級手工鏡面拋光＋德國電鍍技術，非常精緻。\n注意 / 黃銅材質可使用銅油銅膏擦拭保養。"
+    },
+    {
+        "id": "4",
+        "createdAt": "2020-07-28T23:10:02.853Z",
+        "title": "自摸連莊大發包中好運",
+        "price": 480,
+        "category": "耳夾/Ear Clips",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Chinese_Earring.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 抗敏鋼\n尺寸 / 1.7x0.8cm\n注意 / 整體純鋼材質，抗過敏，可碰水，長久保色。"
+    },
+    {
+        "id": "5",
+        "createdAt": "2020-07-28T23:06:01.412Z",
+        "title": "純鋼桂冠擁抱可調戒指",
+        "price": 780,
+        "category": "戒指/Rings",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Ring.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 抗敏鋼厚鍍18K金\n尺寸 / 內徑可微調\n注意 / 整體純鋼材質，抗過敏，可碰水，長久保色。"
+    },
+    {
+        "id": "6",
+        "createdAt": "2020-07-28T06:00:44.523Z",
+        "title": "雙層扭轉戒指",
+        "price": 980,
+        "category": "戒指/Rings",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Double_ Ring.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 環保黃銅保色電鍍 \n尺寸 / 美國戒圍7號   內徑1.7cm \n注意 / 此款質感超好，特殊雙環設計，可以自行調整不同角度配戴"
+    },
+    {
+        "id": "7",
+        "createdAt": "2020-07-28T10:36:53.815Z",
+        "title": "設計師滴露線條手環",
+        "price": 1680,
+        "category": "手環/Bracelet",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Bracelet.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 抗敏鋼厚鍍18K金\n尺寸 / 手圍可微調\n注意 / 整體純鋼材質，抗過敏，可碰水，長久保色。"
+    }
+    ,
+    {
+        "id": "8",
+        "createdAt": "2020-07-28T10:37:53.815Z",
+        "title": "純鋼珍珠圓帽小姐手鍊",
+        "price": 1180,
+        "category": "手環/Bracelet",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/images/Pearly_Bracelet.png",
+        "subTitle": "商品描述",
+        "description": "材質 / 抗敏鋼\n尺寸 / 鍊長15.5cm 延長鍊5.5cm\n注意 / 獨家訂製純鋼材質，抗過敏，可碰水，超強保色。不易掉色，不變黑。"
+    }
+]
