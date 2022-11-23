@@ -3,28 +3,28 @@
         "id": "1",
         "createdAt": "2020-07-28T09:51:56.881Z",
         "title": "耳環/Earrings",
-        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Earrings.jpg",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Earrings.png",
         "numOfProducts": 100
     },
     {
         "id": "2",
         "createdAt": "2020-07-28T15:50:47.751Z",
         "title": "耳夾/Ear Clips",
-        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Ear%20Clips.jpg",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Ear_Clips.png",
         "numOfProducts": 15
     },
     {
         "id": "3",
         "createdAt": "2020-07-28T21:07:57.217Z",
         "title": "戒指/Rings",
-        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Rings.jpg",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Rings.png",
         "numOfProducts": 25
     },
     {
         "id": "4",
         "createdAt": "2020-07-28T23:20:00.200Z",
         "title": "手環/Bracelet",
-        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Bracelet.jpg",
+        "image": "https://raw.githubusercontent.com/ams90102/flutter_shop_app_data/master/Bracelet.png",
         "numOfProducts": 15
     }
 ]
